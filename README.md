@@ -1,7 +1,7 @@
 ## Hi there,
-## I am Michael, I am a postgraduate student in the Departement of Informatics at University of Piraeus based in Athens,Greece.
-
-Currently working with data analysis projects using tools like python pandas, matplotlib, seaborn, power BI and PostgreSQL.
+ I am Michael, I am a postgraduate student in the Departement of Informatics at University of Piraeus based in Athens,Greece.
+Currently working with data analysis projects using tools like python pandas, matplotlib, seaborn, power BI and PostgreSQL-pgadmin.
+My email to reach me: mixalisspachos@gmail.com
 
 <!--
 **spachito/spachito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
